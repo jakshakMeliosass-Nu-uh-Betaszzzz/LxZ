@@ -1,0 +1,12 @@
+ "dbnya": [
+    {
+      "username": "linux",
+      "password": "pp",
+      "nomor": "6285783103654"
+    }
+  ],
+  "allowed_numbers": [
+    "6285783103654"
+  ],
+  "status": "on"
+}
